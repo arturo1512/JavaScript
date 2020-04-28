@@ -1,0 +1,4 @@
+Arrow functions
+En esta clase aprenderemos a utilizar Arrow Functions que permiten una nomenclatura más corta para escribir expresiones de funciones. Este tipo de funciones deben definirse antes de ser utilizadas.
+
+Al escribir las Arrow Functions no es necesario escribir la palabra function, la palabra return, ni las llaves.

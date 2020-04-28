@@ -1,0 +1,2 @@
+Haciendo múltiples requests
+En esta clase accederemos a múltiples datos al mismo tiempo. Continuaremos trabajando con los jQuery y swapi.

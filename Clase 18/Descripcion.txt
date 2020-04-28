@@ -1,0 +1,6 @@
+Condicional múltiple: switch
+Una ultima estructura de control se llama switch. Switch se utiliza para realizar diferentes acciones basadas en múltiples condiciones.
+
+Prompt, muestra un cuadro de mensaje que le pide al usuario que ingrese algúna información.
+
+Break, sirve para que el browser se salte un bucle.

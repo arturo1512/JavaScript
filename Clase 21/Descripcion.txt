@@ -1,0 +1,2 @@
+Transformar un array
+En esta clase veremos cómo transformar un array. El método map() itera sobre los elementos de un array en el orden de inserción y devuelve array nuevo con los elementos modificados.

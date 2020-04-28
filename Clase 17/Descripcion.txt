@@ -1,0 +1,4 @@
+Estructuras repetitivas: do-while
+Otra estructura repetitiva es el do-while. A diferencia de la instrucción while, un bucle do…while se ejecuta una vez antes de que se evalúe la expresión condicional.
+
+Reto, resuelve el bug que tiene el ejercicio.

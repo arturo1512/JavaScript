@@ -1,0 +1,6 @@
+jQuery CDN
+https://code.jquery.com/
+jQuery
+https://jquery.com/
+Swapi- the Star Wars Api
+https://swapi.co/

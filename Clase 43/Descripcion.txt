@@ -1,0 +1,4 @@
+Agregando la verificación del color elegido
+Para agregar atributos al objeto principal en el que está nuestro código, basta con usar this, haciendo referencia al contexto de la clase, y agregar los atributos con un punto: this.atributo = valor
+
+La verificación del color elegido la haremos creando y removiendo los eventos del click al pasar el juego a cada nuevo nivel.

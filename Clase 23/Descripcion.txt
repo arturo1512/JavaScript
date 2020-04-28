@@ -1,0 +1,8 @@
+Cómo funcionan las clases en JavaScript
+Las clases son funciones cuya sintaxis tiene dos componentes:
+
+expresiones
+declaraciones
+En esta clase veremos el uso de this. Dentro de una función, el valor de this depende de cómo es llamada ésta.
+
+Reto: agrega el atributo altura y la función soyAlto.

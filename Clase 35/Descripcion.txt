@@ -1,0 +1,19 @@
+Promesas
+En esta clase veremos las promesas, que son valores que aun no conocemos. Las promesas tienen tres estados:
+
+pending
+fullfilled
+rejected
+Las promesas se invocan de la siguiente forma:
+
+new Promise( ( resolve, reject ) => {
+  // --- llamado asíncrono
+  if( todoOK ) {
+     // -- se ejecutó el llamado exitosamente
+     resolve()
+  } else {
+     // -- hubo un error en el llamado
+     reject()
+  }
+} )
+No olvides ver el material adjunto de esta clase.
